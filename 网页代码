@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <title>C语言函数知识</title> 
+ </head>
+ <body>
+
+    <h1>函数的定义</h1>
+
+    <p>函数名来说明函数的功能</p>
+    <p>返回值类型  函数名（类型 形式参数1，类型 形式参数2）</p>
+    <p>{</p>
+        <p>声明语句序列</p>
+        <p>可执行语句序列</p>
+    <p>}</p>  <p2 class="test1"> <u><div id="OOFFFF">函数体</div></u> </p2>
+    <p>例子：</p>
+    <style><div><p2>用函数编写计算整数n的阶乘！</p2>
+       p2
+       {
+            position:absolute;
+            left:100px;
+            top:150px;
+        }
+        </style>
+            <img src="C:\Users\八八\Pictures\屏幕截图(50).png"width="500"height="200"></div>
+    <style>
+    .test1{
+        color:rgb(255, 0, 128);
+        font-weight:200;
+        font-family:'Courier New', Courier, monospace;</style>
+    <style type="text/css">
+    p{
+        border: medium double rag(270,0,300)
+        }
+        </style>
+    </html>
