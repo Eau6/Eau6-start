@@ -4,3 +4,4 @@
 考核阶段二 https://github.com/Eau6/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B5%E4%BA%8C.md
 考核阶段三 https://github.com/Eau6/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B5%E4%B8%89.md
 考核阶段四 https://github.com/Eau6/Task.github.io
+考核阶段五https://github.com/Eau6/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B5%E4%BA%94.md
